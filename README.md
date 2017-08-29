@@ -11,3 +11,5 @@ The code provided at the moment is pretty sketchy and needs a lot of work so bea
 This is a project that was undertaken as part of my thesis for the Music & Media Technologies post-graduate course at Trinity College, Dublin.
 
 Any thoughts/comments/suggestions would be appreciated.
+
+![alt text](https://raw.githubusercontent.com/jack-alexander-ie/rhythmus-sv/master/images/physical_unit/rhythmus_sv.jpg)
