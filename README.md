@@ -16,3 +16,7 @@ Any thoughts/comments/suggestions would be appreciated.
 <br>
 
 ![alt text](https://raw.githubusercontent.com/jack-alexander-ie/rhythmus-sv/master/images/physical_unit/rhythmus_sv.jpg)
+<br>
+Video 1: https://youtu.be/icDQ6PMWr_U
+<br>
+Video 2: https://youtu.be/Gvr0Ink5UJc 
